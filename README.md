@@ -1,2 +1,2 @@
 # Power-BI
-This Repository contains different project with Power Bi Business Intelligence
+This repository contains different project with Power Bi Business Intelligence
