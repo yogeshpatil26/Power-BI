@@ -1,0 +1,10 @@
+POWER BI -  PROJECT -   
+BUSINESS  REQUIREMENTS
+1. TOP 5 PRODUCTS by SALES, PROFIT AND QUANTITY SOLD
+2. HOW do SALES Trends vary over time (Daily , Monthly , Quarterly, Annually)
+3. Show relationship between sales and profit
+4. Compare Sales/ Profit/ Quantity Sold between any two periods selected by the users
+5. Average discount offered in each discount category
+6. Total number of order
+7. Show Sales/ Profit/ Discount/ Net sales / All remaining fields for each order that could be filtered using visual filters.
+   ( Product / Date/ Customer Id/ Promotion Category)
